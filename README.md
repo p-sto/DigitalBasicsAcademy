@@ -77,8 +77,6 @@ to both analog and digital electronics and now I would like review them and keep
 
 ## Digital circuits basics
 
-<img src="http://img.pr0gramm.com/2014/09/05/a715a950599ca0df.jpg" width="300">
-
 ## Software engineering skills in EDA
 
 ## Hardware Description Languages
