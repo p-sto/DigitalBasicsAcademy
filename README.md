@@ -74,6 +74,7 @@ to both analog and digital electronics and now I would like review them and keep
  - ### Active Filters
 
 	- [Phase relation in active filters](http://www.analog.com/en/analog-dialogue/articles/phase-relations-in-active-filters.html)
+	- [Handbook Of Operational Amplifier Active RC Networks](https://www.ti.com/lit/an/sboa093a/sboa093a.pdf)
 
 ## Digital circuits basics
 
